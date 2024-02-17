@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Alvin Rahmatilasyah**.<br>
+
+Saya seorang **Mahasiswa** di Universitas Kristen Maranatha.<br>
 
 <!--
 **2172016AlvinRahmatilasyah/2172016AlvinRahmatilasyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
