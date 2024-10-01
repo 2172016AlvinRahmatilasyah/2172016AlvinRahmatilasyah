@@ -1,9 +1,3 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Alvin Rahmatilasyah**.<br>
-
-Saya seorang **Mahasiswa** di Universitas Kristen Maranatha.<br>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/2172016AlvinRahmatilasyah">
